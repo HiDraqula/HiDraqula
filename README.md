@@ -2,7 +2,7 @@
 #### Myself Aniket,🚀
 ##### I Enjoy Coding & Teaching it EveryOne!!😇
 
-I'm a self-taught Full-Stack Developer | Freelancer | & Mentor...
+I'm a self-taught Full-Stack Web Developer | Freelancer | & Mentor...
 
 - 🔭 I’m currently working on React Clones & Freelance Stuffs
 - 🌱 I’m currently learning AI & Blockchain
