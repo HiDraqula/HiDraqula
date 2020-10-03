@@ -1,4 +1,15 @@
 ### Hi there 👋
+#### Myself Aniket,🚀
+##### I Enjoy Coding & Teaching it EveryOne!!😇
+
+- 🔭 I’m currently working on React Clones & Freelance Stuffs
+- 🌱 I’m currently learning AI & Blockchain
+- 👯 I’m looking to collaborate on Simply Great Projects & Ideas
+- 🤔 I’m looking for Friends and Community online to Flourish Together 
+- 💬 Ask me about JavaScript, React, MERN/MEAN Stack or Simply Web Development
+- 📫 How to reach me: I'm mostly online in Instagram @icode.future | Also this 👉 [linktr.ee/icode.future](https://linktr.ee/icode.future)
+- ⚡ Fun fact: I think I'm also a Spiritual Person
+
 
 <!--
 **HiDraqula/HiDraqula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
