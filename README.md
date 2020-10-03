@@ -2,13 +2,14 @@
 #### Myself Aniket,🚀
 ##### I Enjoy Coding & Teaching it EveryOne!!😇
 
+I'm a self-taught Full-Stack Developer | Freelancer | & Mentor...
+
 - 🔭 I’m currently working on React Clones & Freelance Stuffs
 - 🌱 I’m currently learning AI & Blockchain
 - 👯 I’m looking to collaborate on Simply Great Projects & Ideas
 - 🤔 I’m looking for Friends and Community online to Flourish Together 
 - 💬 Ask me about JavaScript, React, MERN/MEAN Stack or Simply Web Development
 - 📫 How to reach me: I'm mostly online in Instagram @icode.future | Also this 👉 [linktr.ee/icode.future](https://linktr.ee/icode.future)
-- ⚡ Fun fact: I think I'm also a Spiritual Person
 
 
 <!--
@@ -27,7 +28,7 @@ Here are some ideas to get you started:
 -->
 
 [![Contact me on Codementor](https://www.codementor.io/m-badges/aniketsharma692/find-me-on-cm-b.svg)](https://www.codementor.io/@aniketsharma692?refer=badge)
-
+<!--
 ## My Github Stats
 [![HitCount](http://hits.dwyl.io/HiDraqula/badges.svg)](http://hits.dwyl.io/HiDraqula/badges)
 
@@ -37,4 +38,6 @@ Here are some ideas to get you started:
 
 ##
 
-<a href="https://twitter.com/pratap2210" rel="nofollow"> <img align="left" alt="Pratap | Twitter" width="22px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" style="max-width:100%;"></a><a href="https://www.linkedin.com/in/prataps22" rel="nofollow"> <img align="left" alt="Pratap Sharma | Linkedin" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin-2.png" style="max-width:100%;"></a>  
+<a href="https://twitter.com/pratap2210" rel="nofollow"> <img align="left" alt="Aniket | Twitter" width="22px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" style="max-width:100%;"></a><a href="https://twitter.com/ICodeFuture_" rel="nofollow"> <img align="left" alt="Aniket Sharma | Linkedin" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin-2.png" style="max-width:100%;"></a> 
+
+--> 
