@@ -30,5 +30,4 @@ Here are some ideas to get you started:
 
 ### My Github Stats
 [![HitCount](http://hits.dwyl.io/HiDraqula/badges.svg)](http://hits.dwyl.io/HiDraqula/badges)
-[![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=HiDraqula&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=HiDraqula&layout=compact&theme=merko)
+[![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=HiDraqula&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)![1](https://github-readme-stats.vercel.app/api/top-langs/?username=HiDraqula&layout=compact&theme=merko)
