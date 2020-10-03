@@ -28,9 +28,13 @@ Here are some ideas to get you started:
 
 [![Contact me on Codementor](https://www.codementor.io/m-badges/aniketsharma692/find-me-on-cm-b.svg)](https://www.codementor.io/@aniketsharma692?refer=badge)
 
-### My Github Stats
+## My Github Stats
 [![HitCount](http://hits.dwyl.io/HiDraqula/badges.svg)](http://hits.dwyl.io/HiDraqula/badges)
 
 
 [![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=HiDraqula&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=HiDraqula&layout=compact&theme=merko)
+
+##
+
+<a href="https://twitter.com/pratap2210" rel="nofollow"> <img align="left" alt="Pratap | Twitter" width="22px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" style="max-width:100%;"></a><a href="https://www.linkedin.com/in/prataps22" rel="nofollow"> <img align="left" alt="Pratap Sharma | Linkedin" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin-2.png" style="max-width:100%;"></a>  
