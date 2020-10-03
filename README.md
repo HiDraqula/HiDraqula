@@ -27,3 +27,8 @@ Here are some ideas to get you started:
 -->
 
 [![Contact me on Codementor](https://www.codementor.io/m-badges/aniketsharma692/find-me-on-cm-b.svg)](https://www.codementor.io/@aniketsharma692?refer=badge)
+
+### My Github Stats
+[![HitCount](http://hits.dwyl.io/HiDraqula/badges.svg)](http://hits.dwyl.io/HiDraqula/badges)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)
