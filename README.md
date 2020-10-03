@@ -1,8 +1,6 @@
-### Hi there 👋
-#### Myself Aniket,🚀
-##### I Enjoy Coding & Teaching it EveryOne!!😇
-
-I'm a self-taught Full-Stack Web Developer | Freelancer | & Mentor...
+### Hi there, Myself [Aniket](https://myselfani.web.app) 👋
+#### I Enjoy Coding & Love Teaching it EveryOne!!😇
+##### I'm a self-taught Full-Stack Web Developer | Freelancer | & Mentor... 🚀
 
 - 🔭 I’m currently working on React Clones & Freelance Stuffs
 - 🌱 I’m currently learning AI & Blockchain
