@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
-[![Contact me on Codementor](https://www.codementor.io/m-badges/aniketsharma692/find-me-on-cm-b.svg)](https://www.codementor.io/@aniketsharma692?refer=badge)
 
+[![Contact me on Codementor](https://www.codementor.io/m-badges/aniketsharma692/find-me-on-cm-b.svg)](https://www.codementor.io/@aniketsharma692?refer=badge)
+<!--
 ## My Github Stats
 [![HitCount](http://hits.dwyl.io/HiDraqula/badges.svg)](http://hits.dwyl.io/HiDraqula/badges)
 
