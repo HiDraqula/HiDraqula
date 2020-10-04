@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Simply Great Projects & Ideas
 - 🤔 I’m looking for Friends and Community online to Flourish Together 
 - 💬 Ask me about JavaScript, React, MERN/MEAN Stack or Simply Web Development
-- 📫 How to reach me: I'm mostly online in Instagram @icode.future | Also this 👉 [linktr.ee/icode.future](https://linktr.ee/icode.future)
+- 📫 How to reach me: I'm mostly online in Instagram [@icode.future](https://instagram.com/icode.future) | Also this 👉 [linktr.ee/icode.future](https://linktr.ee/icode.future)
 
 
 <!--
