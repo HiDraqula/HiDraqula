@@ -1,4 +1,4 @@
-### Hi there, Myself [Aniket](https://myselfani.web.app) 👋
+### Hi there, Myself [Aniket](https://hidraqula.github.io) 👋
 #### I Enjoy Coding & Love Teaching it EveryOne!!😇
 ##### I'm a self-taught Full-Stack Web Developer | Freelancer | & Mentor... 🚀
 
