@@ -1,5 +1,5 @@
 ### Hi there, Myself [Aniket](https://hidraqula.github.io) 👋
-#### I Enjoy Coding & Love Teaching it EveryOne!!😇
+#### I Enjoy Coding & Love Teaching it to EveryOne!!😇
 ##### I'm a self-taught Full-Stack Web Developer | Freelancer | & Mentor... 🚀
 
 - 🔭 I’m currently working on React Clones & Freelance Stuffs
