@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" media="all" href="markdown_styles.css" />
+
 ### Hii there, Myself [Aniket](https://hidraqula.github.io) 👋
 #### I Enjoy Coding & Love Teaching it to EveryOne!!😇
 ##### I'm a self-taught Full-Stack Web Developer | Freelancer | & Mentor... 🚀
@@ -13,6 +15,8 @@
 <!--
 **HiDraqula/HiDraqula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -25,7 +29,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 [![Contact me on Codementor](https://www.codementor.io/m-badges/aniket.sharma/find-me-on-cm-b.svg)](https://www.codementor.io/@aniket.sharma?refer=badge "Contact me on Codementor")
+
+[![Contact me on Fiverr](https://raw.githubusercontent.com/HiDraqula/HiDraqula/main/fiverr.svg)](https://www.fiverr.com/hidraqula/ "Contact me on Fiverr") 
+
 <!--
 ## My Github Stats
 [![HitCount](http://hits.dwyl.io/HiDraqula/badges.svg)](http://hits.dwyl.io/HiDraqula/badges)
